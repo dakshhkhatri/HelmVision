@@ -9,7 +9,7 @@ import torch.nn as nn
 # -----------------------------
 # CONFIG
 # -----------------------------
-MODEL_PATH = r"C:\Users\khatr\Downloads\HelmVision_Project\models\Helmvision_updated.pth"
+MODEL_PATH = "models/Helmvision_updated.pth"
 THRESHOLD = 0.77
 
 # -----------------------------
