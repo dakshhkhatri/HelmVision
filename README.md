@@ -66,7 +66,8 @@ Transfer learning with MobileNetV2 improved test accuracy by over **25 percentag
 
 ### ✅ Helmet Detected
 
-![Helmet Detected](images/helmet_detected.png)
+<img width="926" height="642" alt="image" src="https://github.com/user-attachments/assets/88b66ab1-ead8-4336-8a89-979e639cf8a1" />
+
 
 ### ❌ No Helmet Detected
 <img width="2486" height="1246" alt="image" src="https://github.com/user-attachments/assets/3f63af19-70fc-4488-8fb2-b31cbffebd1e" />
